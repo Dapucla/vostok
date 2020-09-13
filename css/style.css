@@ -302,8 +302,8 @@ p {
    width: 100%;
    background: linear-gradient(rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)),
       url('../img/backgrounds/bg2.JPG') center center no-repeat;
-   /* background-position: center;
-   background-repeat: no-repeat; */
+   background-position: center;
+   background-repeat: no-repeat;
    background-size: cover;
    background-attachment: fixed;
 }
